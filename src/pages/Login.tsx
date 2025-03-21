@@ -41,7 +41,7 @@ const Login: React.FC = () => {
           </div>
           
           <h2 className="text-2xl font-bold text-center text-gray-800 mb-8">
-            Bienvenido a METAFIT
+            Bienvenido a METAFIT Inicia Sesión 
           </h2>
           
           {error && (
